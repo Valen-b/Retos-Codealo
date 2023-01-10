@@ -16,7 +16,6 @@ def checkMirror(x):
     else:
         return False
     
-
 # No Tocar
 print(checkMirror(e1))
 print(checkMirror(e2))
